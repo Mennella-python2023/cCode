@@ -1,14 +1,14 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "windows-gcc-x64",
             "includePath": [
-                "C:\\MinGW\\include"
+                "C:/MinGW/include"
             ],
             "compilerPath": "C:/MinGW/bin/gcc.exe",
             "cStandard": "${default}",
             "cppStandard": "${default}",
-            "intelliSenseMode": "${default}",
+            "intelliSenseMode": "windows-gcc-x64",
             "compilerArgs": [
                 ""
             ]
@@ -16,14 +16,23 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\MinGW\\include"
+                "C:/MinGW/include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:/MinGW/bin/gcc.exe"
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:/MinGW/include",
+                    "c:/Users/Administrator/Desktop/cCode/codeInC"
+                ]
+            },
+            "compilerPathInCppPropertiesJson": "C:/MinGW/bin/gcc.exe"
         }
     ],
     "version": 4
