@@ -9,7 +9,7 @@
             "stopAtEntry": false,
             "externalConsole": true,
             "cwd": "c:/Users/Administrator/Desktop/cCode/codeInC",
-            "program": "c:/Users/Administrator/Desktop/cCode/codeInC/build/Debug/outDebug",
+            "program": "c:/Users/Administrator/Desktop/cCode/codeInC",
             "MIMode": "gdb",
             "miDebuggerPath": "gdb",
             "setupCommands": [
