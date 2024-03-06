@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\MinGW\\include"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "${default}",
+            "compilerArgs": [
+                ""
+            ]
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\MinGW\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}
